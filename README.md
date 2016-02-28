@@ -4,6 +4,12 @@ A simple lab environment which makes calls to OpenCV using Nodejs and serves up 
 
 ## Quick Start
 
+Download and install Vagrant: https://www.yagrantup.com/downloads.html
+Download and install Virtualbox: https://www.virtualbox.org/wiki/Downloads
+
+
+Then open a terminal and navigate to where you would like to clone the repository. Execute the following commands:
+
 '''bash
 git clone https://github.com/wcbullington/cvlab .
 cd cvlab
@@ -12,6 +18,8 @@ xx vagrant ssh
 xx cd /vagrant
 xx node index.js
 '''
+
+At password prompts use "tcuser".
 
 Then visit:
 

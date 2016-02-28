@@ -1,5 +1,6 @@
 .git/
 .vagrant/
+hostmachine/.vagrant/
 node_modules/
 uploads/*
 public/images/*

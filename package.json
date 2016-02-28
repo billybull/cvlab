@@ -1,9 +1,12 @@
 {
-  "name": "geegee",
+  "name": "cvlab",
   "version": "1.0.0",
   "description": "Testing environment for OpenCV and Nodejs",
   "main": "index.js",
   "author": "wcbullington",
+  "scripts": {
+    "start": "node index.js"
+  },
   "license": "",
   "dependencies": {
     "async": "^1.4.2",

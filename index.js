@@ -23,7 +23,6 @@ var exts = {
 var port = 8080;
 
 //Create the Express app
- */
 var app = express();
 
 //Set up the public directory
