@@ -1,5 +1,7 @@
 .git/
 .vagrant/
+.DS_Store
+._.DS_Store
 hostmachine/.vagrant/
 node_modules/
 uploads/*
