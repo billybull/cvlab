@@ -14,9 +14,6 @@ Then open a terminal and navigate to where you would like to clone the repositor
 git clone https://github.com/wcbullington/cvlab .
 cd cvlab
 vagrant up --provider=docker
-xx vagrant ssh
-xx cd /vagrant
-xx node index.js
 ```
 
 At password prompts use "tcuser".
