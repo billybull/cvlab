@@ -112,7 +112,6 @@ app.post('/upload', upload.single('file'), function(req, res, next){
       function( im, callback ) {
 
         //Run the OpenCV algorithm (Face_CASCADE here)
-         */
         im.detectObject( cv.FACE_CASCADE, {}, callback );
 
       }
