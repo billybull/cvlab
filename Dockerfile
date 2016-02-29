@@ -4,6 +4,9 @@
 FROM centos
 MAINTAINER wcbullington
 
+# Expose port for networking
+EXPOSE 8080
+
 # Dockerfile environment variables initialized
 ENV OPENCV_PREFIX /opt/opencv
 ENV OPENCV_SRC_DIR $OPENCV_PREFIX/src
