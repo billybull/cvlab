@@ -23,7 +23,6 @@ var exts = {
 var port = 8080;
 
 //Create the Express app
- */
 var app = express();
 
 //Set up the public directory
@@ -113,7 +112,6 @@ app.post('/upload', upload.single('file'), function(req, res, next){
       function( im, callback ) {
 
         //Run the OpenCV algorithm (Face_CASCADE here)
-         */
         im.detectObject( cv.FACE_CASCADE, {}, callback );
 
       }
