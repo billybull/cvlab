@@ -35,7 +35,7 @@ docker login
 
 #### Run the container in the docker host machine
 ```bash
-docker run wcbullington/cvlab:docker_machine
+docker run wcbullington/cvlab
 ```
 #### Then visit:
 
