@@ -7,6 +7,7 @@ A simple lab environment which makes calls to OpenCV using Nodejs and serves up 
 #### Install Docker Toolbox and Git. Make sure virtualization is enabled on your computer.
 
 https://docs.docker.com/machine/install-machine/
+
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 #### Navigate to the directory of your choice and clone the repository into it.
