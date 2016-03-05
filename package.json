@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Testing environment for OpenCV and Nodejs",
   "main": "index.js",
-  "author": "wcbullington",
+  "author": "billybull",
   "scripts": {
     "start": "node index.js"
   },
