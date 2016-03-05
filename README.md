@@ -13,7 +13,7 @@ https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 #### Navigate to the directory of your choice and clone the repository into it.
 
 ```bash
-git clone https://github.com/wcbullington/cvlab .
+git clone https://github.com/billybull/cvlab .
 cd cvlab
 ```
 
