@@ -2,7 +2,7 @@
 
 # Build image and maintainer
 FROM centos
-MAINTAINER billybull
+MAINTAINER wcbullington
 
 # Expose port for networking
 EXPOSE 8080
