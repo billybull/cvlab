@@ -39,6 +39,7 @@ RUN yum install -y \
     libtiff-devel \
     libjasper-devel \
     libdc1394-22-devel \
+    libtool \
     && yum clean all
 
 # Install Imagemagick and Nodejs
